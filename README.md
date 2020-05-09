@@ -1,2 +1,0 @@
-# sharedproject
-Shared Project
